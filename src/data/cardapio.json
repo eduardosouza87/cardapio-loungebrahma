@@ -5,35 +5,35 @@
       {
         "title": "Espeto Bovino",
         "image": "/comida-espeto-bovino.png",
-        "content": "<b>Quantidade</b>: 1 unidade",
+        "content": "1 unidade",
         "price": "R$ 18,00"
       },
 
       {
         "title": "Espeto Frango",
         "image": "/comida-espeto-frango.png",
-        "content": "<b>Quantidade</b>: 1 unidade",
+        "content": "1 unidade",
         "price": "R$ 15,00"
       },
 
       {
         "title": "Espeto Linguiça",
         "image": "/comida-espeto-linguica.png",
-        "content": "<b>Quantidade</b>: 1 unidade",
+        "content": "1 unidade",
         "price": "R$ 18,00"
       },
 
       {
         "title": "Porção de Fritas",
         "image": "/comida-fritas.png",
-        "content": "<b>Quantidade</b>: 500g",
+        "content": "500g",
         "price": "R$ 35,00"
       },
 
       {
         "title": "Mini Burger + Fritas",
         "image": "/comida-mini-burger.png",
-        "content": "<b>Quantidade</b>: 03 unidades de burger + 1 porção de fritas",
+        "content": "03 unidades de burger + 1 porção de fritas",
         "price": "R$ 40,00"
       }
     ]
@@ -43,9 +43,10 @@
     "title": "Caipirinha",
     "item": [
       {
-        "title": "Sabores: Limão / Morango / Maracujá \\Bebida: Cachaça Velho Barreiro / Vodka Sminorff / Sakê Kioday",
+        "title": "Sabores: Limão / Morango / Maracujá",
+        "subtitle": "Bebida: Cachaça Velho Barreiro / Vodka Sminorff / Sakê Kioday",
         "image": "/drinks-caipirinha.png",
-        "content": "<b>Quantidade</b>: 500 ml",
+        "content": "500 ml",
         "price": "R$ 19,99"
       }
     ]
@@ -55,9 +56,10 @@
     "title": "Gin",
     "item": [
       {
-        "title": "Sabores: Frutas Cítricas / Frutas Tropicais / Frutas Vermelhas \nBebida: Gordons",
+        "title": "Sabores: Frutas Cítricas / Frutas Tropicais / Frutas Vermelhas",
+        "subtitle": "Bebida: Gordons",
         "image": "/drinks-gin.png",
-        "content": "<b>Quantidade</b>: 500 ml",
+        "content": "500 ml",
         "price": "R$ 29,99"
       }
     ]
@@ -95,14 +97,14 @@
       {
         "title": "Whisky Red Label com Energético Red Bull",
         "image": "/dose-whisky-energetico.png",
-        "content": "<b>Quantidade</b>: 500ml",
+        "content": "500ml",
         "price": "R$ 39,99"
       },
 
       {
         "title": "Vodka Sminorff com Energético Red Bull",
         "image": "/dose-vodka-energetico.png",
-        "content": "<b>Quantidade</b>: 500ml",
+        "content": "500ml",
         "price": "R$ 39,99"
       }
     ]
@@ -138,7 +140,7 @@
       {
         "title": "Chopp Brahma",
         "image": "/chopp.png",
-        "content": "<b>Quantidade</b>: 300 ml",
+        "content": "300 ml",
         "price": "R$ 9,99"
       }
     ]
