@@ -1,46 +1,191 @@
 [
   {
     "title": "Comida",
-    "comidas": [
+    "item": [
       {
-        "outro": "oitro"
+        "title": "Espeto Bovino",
+        "image": "/comida-espeto-bovino.png",
+        "content": "<b>Quantidade</b>: 1 unidade",
+        "price": "R$ 18,00"
+      },
+
+      {
+        "title": "Espeto Frango",
+        "image": "/comida-espeto-frango.png",
+        "content": "<b>Quantidade</b>: 1 unidade",
+        "price": "R$ 15,00"
+      },
+
+      {
+        "title": "Espeto Linguiça",
+        "image": "/comida-espeto-linguica.png",
+        "content": "<b>Quantidade</b>: 1 unidade",
+        "price": "R$ 18,00"
+      },
+
+      {
+        "title": "Porção de Fritas",
+        "image": "/comida-fritas.png",
+        "content": "<b>Quantidade</b>: 500g",
+        "price": "R$ 35,00"
+      },
+
+      {
+        "title": "Mini Burger + Fritas",
+        "image": "/comida-mini-burger.png",
+        "content": "<b>Quantidade</b>: 03 unidades de burger + 1 porção de fritas",
+        "price": "R$ 40,00"
       }
     ]
   },
+
   {
-    "title": "Quais são as principais mudanças na NR-01?",
-    "content": "Inclui a gestão de riscos psicossociais, como estresse e assédio, no Programa de Gerenciamento de Riscos (PGR)."
+    "title": "Caipirinha",
+    "item": [
+      {
+        "title": "Sabores: Limão / Morango / Maracujá \\Bebida: Cachaça Velho Barreiro / Vodka Sminorff / Sakê Kioday",
+        "image": "/drinks-caipirinha.png",
+        "content": "<b>Quantidade</b>: 500 ml",
+        "price": "R$ 19,99"
+      }
+    ]
   },
+
   {
-    "title": "Quando entra em vigor a nova versão?",
-    "content": "A atualização será obrigatória 270 dias após sua publicação, ou seja, em 25 de maio de 2025."
+    "title": "Gin",
+    "item": [
+      {
+        "title": "Sabores: Frutas Cítricas / Frutas Tropicais / Frutas Vermelhas \nBebida: Gordons",
+        "image": "/drinks-gin.png",
+        "content": "<b>Quantidade</b>: 500 ml",
+        "price": "R$ 29,99"
+      }
+    ]
   },
+
   {
-    "title": "O que são fatores de risco psicossociais?",
-    "content": "São riscos relacionados ao ambiente e à organização do trabalho, como a pressão excessiva, assédio moral e sexual, e falta de suporte social."
+    "title": "Drinks",
+    "item": [
+      {
+        "title": "Moscow Mule",
+        "image": "/drinks-moscow-mule.png",
+        "content": "",
+        "price": "R$ 34,99"
+      },
+
+      {
+        "title": "Sex on the Beach",
+        "image": "/drinks-sex-on-the-beach.png",
+        "content": "",
+        "price": "R$ 34,99"
+      },
+
+      {
+        "title": "Margarita",
+        "image": "/drinks-margarita.png",
+        "content": "",
+        "price": "R$ 34,99"
+      }
+    ]
   },
+
   {
-    "title": "Como as empresas devem lidar com os riscos psicossociais?",
-    "content": "Devem identificar, avaliar e implementar medidas preventivas para minimizar esses riscos, incluindo-os no PGR."
+    "title": "Doses",
+    "item": [
+      {
+        "title": "Whisky Red Label com Energético Red Bull",
+        "image": "/dose-whisky-energetico.png",
+        "content": "<b>Quantidade</b>: 500ml",
+        "price": "R$ 39,99"
+      },
+
+      {
+        "title": "Vodka Sminorff com Energético Red Bull",
+        "image": "/dose-vodka-energetico.png",
+        "content": "<b>Quantidade</b>: 500ml",
+        "price": "R$ 39,99"
+      }
+    ]
   },
+
   {
-    "title": "O que é o Programa de Gerenciamento de Riscos (PGR)?",
-    "content": "É um conjunto de ações coordenadas pelas empresas para identificar, controlar e reduzir os riscos ocupacionais, garantindo um ambiente de trabalho seguro."
+    "title": "Energético",
+    "item": [
+      {
+        "title": "Red Bull Tradicional / Tropical / Melancia",
+        "image": "/energetico.png",
+        "content": "",
+        "price": "R$ 19,99"
+      }
+    ]
   },
+
   {
-    "title": "Quais são os prazos para adequação?",
-    "content": "As empresas têm até 25 de maio de 2025 para adequar seus programas de gerenciamento de riscos às novas exigências."
+    "title": "Gelo Saborizado",
+    "item": [
+      {
+        "title": "Coco / Maracujá",
+        "image": "/gelo-saborizado.png",
+        "content": "",
+        "price": "R$ 6,99"
+      }
+    ]
   },
+
   {
-    "title": "Há definição oficial para \"riscos psicossociais\" na NR-01?",
-    "content": "Ainda não, mas outras normas e instruções normativas oferecem definições e orientações sobre como interpretar esses riscos."
+    "title": "Chopp",
+    "item": [
+      {
+        "title": "Chopp Brahma",
+        "image": "/chopp.png",
+        "content": "<b>Quantidade</b>: 300 ml",
+        "price": "R$ 9,99"
+      }
+    ]
   },
+
   {
-    "title": "Como os trabalhadores são afetados por esses riscos?",
-    "content": "Eles podem sofrer consequências psicológicas e físicas, como estresse, depressão e burnout."
+    "title": "Combo",
+    "item": [
+      {
+        "title": "Whisky Red Label + 4 Energéticos Red Bull",
+        "image": "/combo-redlabel-redbull.png",
+        "content": "",
+        "price": "R$ 450,00"
+      },
+
+      {
+        "title": "Whisky Black Label + 5 Energéticos Red Bull",
+        "image": "/combo-blacklabel-redbull.png",
+        "content": "",
+        "price": "R$ 500,00"
+      },
+
+      {
+        "title": "Whisky Gold Label + 5 Energéticos Red Bull",
+        "image": "/combo-goldlabel-redbull.png",
+        "content": "",
+        "price": "R$ 650,00"
+      },
+
+      {
+        "title": "Vodka Absolut + 5 Energéticos Red Bull",
+        "image": "/combo-absolut-redbull.png",
+        "content": "",
+        "price": "R$ 450,00"
+      }
+    ]
   },
+
   {
-    "title": "Quais setores serão mais impactados pela atualização?",
-    "content": "Todos os setores que lidam com fatores de risco ergonômicos e psicossociais, especialmente aqueles com ambientes de trabalho de alta pressão ou com risco elevado de assédio."
+    "title": "Garrafa",
+    "item": [
+      {
+        "title": "Licor 43",
+        "image": "/licor43.png",
+        "content": "",
+        "price": "R$ 350,00"
+      }
+    ]
   }
 ]
