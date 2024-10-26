@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Comida",
+    "comidas": [
+      {
+        "outro": "oitro"
+      }
+    ]
+  },
+  {
+    "title": "Quais são as principais mudanças na NR-01?",
+    "content": "Inclui a gestão de riscos psicossociais, como estresse e assédio, no Programa de Gerenciamento de Riscos (PGR)."
+  },
+  {
+    "title": "Quando entra em vigor a nova versão?",
+    "content": "A atualização será obrigatória 270 dias após sua publicação, ou seja, em 25 de maio de 2025."
+  },
+  {
+    "title": "O que são fatores de risco psicossociais?",
+    "content": "São riscos relacionados ao ambiente e à organização do trabalho, como a pressão excessiva, assédio moral e sexual, e falta de suporte social."
+  },
+  {
+    "title": "Como as empresas devem lidar com os riscos psicossociais?",
+    "content": "Devem identificar, avaliar e implementar medidas preventivas para minimizar esses riscos, incluindo-os no PGR."
+  },
+  {
+    "title": "O que é o Programa de Gerenciamento de Riscos (PGR)?",
+    "content": "É um conjunto de ações coordenadas pelas empresas para identificar, controlar e reduzir os riscos ocupacionais, garantindo um ambiente de trabalho seguro."
+  },
+  {
+    "title": "Quais são os prazos para adequação?",
+    "content": "As empresas têm até 25 de maio de 2025 para adequar seus programas de gerenciamento de riscos às novas exigências."
+  },
+  {
+    "title": "Há definição oficial para \"riscos psicossociais\" na NR-01?",
+    "content": "Ainda não, mas outras normas e instruções normativas oferecem definições e orientações sobre como interpretar esses riscos."
+  },
+  {
+    "title": "Como os trabalhadores são afetados por esses riscos?",
+    "content": "Eles podem sofrer consequências psicológicas e físicas, como estresse, depressão e burnout."
+  },
+  {
+    "title": "Quais setores serão mais impactados pela atualização?",
+    "content": "Todos os setores que lidam com fatores de risco ergonômicos e psicossociais, especialmente aqueles com ambientes de trabalho de alta pressão ou com risco elevado de assédio."
+  }
+]
