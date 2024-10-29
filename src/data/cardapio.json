@@ -20,7 +20,7 @@
         "title": "Espeto Linguiça",
         "image": "/comida-espeto-linguica.png",
         "content": "1 unidade",
-        "price": "R$ 18,00"
+        "price": "R$ 15,00"
       },
 
       {
@@ -187,6 +187,19 @@
         "image": "/licor43.png",
         "content": "",
         "price": "R$ 350,00"
+      }
+    ]
+  },
+
+  {
+    "title": "Outros",
+    "item": [
+      {
+        "title": "Narguilé",
+        "subtitle": "Rosh Sabores",
+        "image": "/narguile.jpg",
+        "content": "Ziggy Unidade",
+        "price": "R$ 40,00"
       }
     ]
   }

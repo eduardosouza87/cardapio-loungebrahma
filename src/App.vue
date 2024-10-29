@@ -1,5 +1,5 @@
 <script setup>
-import data from '@/data/cardapio.json';
+import data from '@/data/cardapio.json'
 </script>
 
 <template>
@@ -11,11 +11,7 @@ import data from '@/data/cardapio.json';
         </h1>
       </div>
 
-      <div
-        v-for="items in data"
-        :key="items.title"
-        class="flex flex-col gap-y-6"
-      >
+      <div v-for="items in data" :key="items.title" class="flex flex-col gap-y-6">
         <h2 class="text-center font-bebasNeue text-4xl font-bold text-app-red">
           {{ items.title }}
         </h2>
@@ -24,28 +20,18 @@ import data from '@/data/cardapio.json';
           :key="item.title"
           class="flex items-center gap-x-6 border-b pb-6"
         >
-          <img
-            :src="item.image"
-            class="h-32 w-32 object-contain"
-          />
+          <img :src="item.image" class="h-32 w-32 object-contain" />
 
           <div class="flex flex-col gap-y-2">
-            <h3 class="font-bebasNeue text-app-darkRed text-xl leading-6">
+            <h3 class="font-bebasNeue text-xl leading-6 text-app-darkRed">
               {{ item.title }}
             </h3>
-            <span
-              v-if="item.subtitle"
-              class="text-sm"
-            >
+            <span v-if="item.subtitle" class="text-sm">
               {{ item.subtitle }}
             </span>
 
-            <span
-              v-if="item.content"
-              class="text-sm"
-            >
-              Quantidade: {{ item?.content }}</span>
-            <span class="font-bold text-sm">{{ item.price }}</span>
+            <span v-if="item.content" class="text-sm"> Quantidade: {{ item?.content }}</span>
+            <span class="text-sm font-bold">{{ item.price }}</span>
           </div>
         </div>
       </div>
